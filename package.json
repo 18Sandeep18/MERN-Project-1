@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "gitignore": "^0.7.0"
+    "gitignore": "^0.7.0",
+    "vercel": "^37.1.1"
   }
 }
