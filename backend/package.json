@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "builds": "npm run build"
+    "build": "npm run build",
+    "vercel-build":"echo 'Backend build complete'"
   },
   "keywords": [],
   "author": "Sandeep Rishi",
